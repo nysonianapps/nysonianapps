@@ -44,8 +44,8 @@ We believe in making the most of technology. Our products integrate with health 
 ---
 
 ## 🔧 **Get Started with Nysonian Inc**
-
-1. **Explore** our innovative products [here](https://www.linkedin.com/company/Nysonian Inc-inc).
+t
+1. **Explore** our innovative products [here](https://www.linkedin.com/company/Nysonian-inc).
 2. **Connect** your Nysonian Inc products to your favorite apps and systems.
 3. **Start** experiencing the power of smart technology designed to improve your life.
 
@@ -53,10 +53,10 @@ We believe in making the most of technology. Our products integrate with health 
 
 ## 💬 **Connect With Us**
 
-- **Website**: [Nysonian Inc.com](https://yourwebsite.com)
-- **Instagram**: [@Nysonian Inc](https://instagram.com/Nysonian Inc)
-- **Facebook**: [Nysonian Inc](https://facebook.com/Nysonian Inc)
-- **Twitter**: [@Nysonian Inc](https://twitter.com/Nysonian Inc)
+- **Website**: [Nysonian Inc.com](https://nysonian.com)
+- **Instagram**: [@Nysonian Inc](https://instagram.com/Nysonian)
+- **Facebook**: [Nysonian Inc](https://facebook.com/Nysonian)
+- **Twitter**: [@Nysonian Inc](https://twitter.com/Nysonian)
 
 ---
 
