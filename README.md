@@ -1,6 +1,5 @@
 ![image](https://github.com/user-attachments/assets/77aeb65b-3e02-42ca-982e-9441240c6bba)# Nysonian - Innovating Technology for a Better Tomorrow
 
-![Nysonian Logo](https://media.licdn.com/dms/image/v2/D4D0BAQGJzvS1jZDOUQ/company-logo_200_200/company-logo_200_200/0/1721073704792/nysonian_inc_logo?e=2147483647&v=beta&t=lcOBHdysIGC9XdA1L2xVdy25kU6hm928OT4-CNqO_FQ)  
 Nysonian is dedicated to creating innovative solutions that enhance the daily lives of individuals and businesses. With a focus on cutting-edge technology and design, we aim to make the world a smarter, more connected place.
 
 ---
